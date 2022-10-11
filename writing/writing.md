@@ -8,9 +8,9 @@ FOOTER:
     - Laylah Rain © 2022
 
 NAVBAR:
-    - [Teaching](https://laylahrain.com/teaching/teaching.html)
+    - [Teaching](https://laylahrain.com/teaching/teaching.html){sametab}
     - ![Título](https://laylahrain.com/sources/logo1.png)(45px)(https://laylahrain.com){sametab}
-    - [Writing](https://laylahrain.com/writing/writing.html)
+    - [Writing](https://laylahrain.com/writing/writing.html){sametab}
 
 TITLE: Writing
 ---

@@ -2,16 +2,15 @@
 
 LANGUAGE: es
 CSS: https://laylah-rain.github.io/mdd/demo/source/style.css
-FAVICON: https://laylah-rain.github.io/laylahrain/sources/logo1.png
+FAVICON: https://laylahrain.com/sources/logo1.png
 
 FOOTER:
     - Laylah Rain © 2022
 
-
 NAVBAR:
-    - [Teaching](https://laylah-rain.github.io/mdd/syntax.html)
-    - ![Título](https://laylah-rain.github.io/laylahrain/sources/logo1.png)(45px)(https://www.instagram.com){sametab}
-    - [Writting](https://laylah-rain.github.io/mdd/demo/mdd.html)
+    - [Teaching](https://laylahrain.com/teaching/teaching.html){sametab}
+    - ![Título](https://laylahrain.com/sources/logo1.png)(45px)(https://laylahrain.com){sametab}
+    - [Writing](https://laylahrain.com/writing/writing.html){sametab}
 
 TITLE: Hope is the thing with feathers
 ---
