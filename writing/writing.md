@@ -21,4 +21,6 @@ TITLE: Writing
 My favorites by other authors
 
 - [Hope is the thing with feathers](https://laylahrain.com/hope_is_the_thing_with_feathers/hope_is_the_thing_with_feathers.html){sametab}, poem by Emily Dickinson.
+- [The nightingale and the rose](https://laylahrain.com/the_nightingale_and_the_rose/the_nightingale_and_the_rose.html){sametab}, story by Oscar Wilde.
+
 
