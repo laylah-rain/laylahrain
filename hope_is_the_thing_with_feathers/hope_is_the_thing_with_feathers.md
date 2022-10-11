@@ -13,10 +13,13 @@ NAVBAR:
     - [Teaching](https://laylahrain.com/teaching/teaching.html){sametab}
 
 TITLE: Hope is the thing with feathers
+DESCRIPTION: Poem by Emily Dikenson
+
 ---
 
 
-# Hope is the thing with feathers
+# Hope is the thing with feathers 
+Poem by Emily Dikenson
 
 !![Audio](hope_is_the_thing_with_feathers.mp3)
 
@@ -37,7 +40,7 @@ It asked a crumb - of me.
 
 
 ```note
-# About the poem and the audio
+# About the poem and the audio source
 
 Both the poem and the audio are in the public domain. 
 
