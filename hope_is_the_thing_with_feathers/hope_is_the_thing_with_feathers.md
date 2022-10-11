@@ -16,9 +16,11 @@ TITLE: Hope is the thing with feathers
 ---
 
 
-# “Hope” is the thing with feathers
+# Hope is the thing with feathers
 
-“Hope” is the thing with feathers -
+!![Audio](hope_is_the_thing_with_feathers.mp3)
+
+Hope is the thing with feathers -
 That perches in the soul -
 And sings the tune without the words -
 And never stops - at all -
@@ -32,3 +34,13 @@ I’ve heard it in the chillest land -
 And on the strangest Sea -
 Yet - never - in Extremity,
 It asked a crumb - of me.
+
+
+```note
+# About the poem and the audio
+
+Both the poem and the audio are in the public domain. 
+
+- [Audio by Ian King from Libri Vox](https://librivox.org/short-poetry-collection-180-by-various/)
+
+```
