@@ -20,5 +20,5 @@ TITLE: Writing
 
 My favorites by other authors
 
-- [Hope is the thing with feathers](https://laylahrain.com/hope_is_the_thing_with_feathers/hope_is_the_thing_with_feathers.html), poem by Emily Dickinson.
+- [Hope is the thing with feathers](https://laylahrain.com/hope_is_the_thing_with_feathers/hope_is_the_thing_with_feathers.html){sametab}, poem by Emily Dickinson.
 
