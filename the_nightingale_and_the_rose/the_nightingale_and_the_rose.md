@@ -154,6 +154,6 @@ So he returned to his room and pulled out a great dusty book, and began to read.
 Both the story and the audio are in the public domain. 
 
 - [Audio by Susan K from Libri Vox](https://librivox.org/childrens-short-works-vol-048-by-various/)
-- [Story by Oscar Wilde taken from StandarEbook](https://standardebooks.org/ebooks/oscar-wilde/childrens-stories)
+- [Story by Oscar Wilde taken from Standard Ebooks](https://standardebooks.org/ebooks/oscar-wilde/childrens-stories)
 
 ```
