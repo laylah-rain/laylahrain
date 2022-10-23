@@ -13,7 +13,12 @@ NAVBAR:
     - [Teaching](https://laylahrain.com/teaching/teaching.html){sametab}
 
 TITLE: Teaching
+
 ---
 
 
 # Teaching
+
+Narrative techniques
+
+- [Matryoshka technique](https://laylahrain.com/matryoshka_doll/matryoshka_doll.html)

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "the_nightingale_and_the_rose/the_nightingale_and_the_rose.md",
+            "file": "matryoshka_doll/matryoshka_doll.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the_nightingale_and_the_rose/the_nightingale_and_the_rose.md",
+                "file": "matryoshka_doll/matryoshka_doll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the_nightingale_and_the_rose/the_nightingale_and_the_rose.md",
+                "file": "matryoshka_doll/matryoshka_doll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the_nightingale_and_the_rose/the_nightingale_and_the_rose.md"
+                "file": "matryoshka_doll/matryoshka_doll.md"
               }
             }
           }
@@ -130,6 +130,8 @@
   },
   "active": "ca9f2e3cead11b6f",
   "lastOpenFiles": [
+    "teaching/teaching.md",
+    "the_nightingale_and_the_rose/the_nightingale_and_the_rose.md",
     "hope_is_the_thing_with_feathers/hope_is_the_thing_with_feathers.md"
   ]
 }
