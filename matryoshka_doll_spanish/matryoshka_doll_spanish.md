@@ -62,7 +62,7 @@ Capas del texto anterior:
 ```note
 # Este artículo en otro idiomas
 
-- [Inglés](https://laylahrain.com/matryoshka_dollh/matryoshka_doll.html)
+- [Inglés](https://laylahrain.com/matryoshka_doll/matryoshka_doll.html){sametab}
 ```
 
 

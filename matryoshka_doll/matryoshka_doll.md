@@ -62,6 +62,6 @@ Layers of the previous text:
 ```note
 # This article in other languages
 
-- [Spanish](https://laylahrain.com/matryoshka_doll_spanish/matryoshka_doll_spanish.html)
+- [Spanish](https://laylahrain.com/matryoshka_doll_spanish/matryoshka_doll_spanish.html){sametab}
 
 ```
