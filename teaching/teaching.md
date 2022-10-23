@@ -21,4 +21,4 @@ TITLE: Teaching
 
 Narrative techniques
 
-- [Matryoshka technique](https://laylahrain.com/matryoshka_doll/matryoshka_doll.html)
+- [Matryoshka technique](https://laylahrain.com/matryoshka_doll/matryoshka_doll.html){sametab}
