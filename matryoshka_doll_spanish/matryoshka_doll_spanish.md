@@ -60,7 +60,7 @@ Capas del texto anterior:
 - **Recompensa**: El corazón de la ballena aún palpitando.
 
 ```note
-# Este artículo en otro idiomas
+# Este artículo en otros idiomas
 
 - [Inglés](https://laylahrain.com/matryoshka_doll/matryoshka_doll.html){sametab}
 ```
