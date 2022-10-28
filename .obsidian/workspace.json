@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "c6f7086468df78c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e1a65cd383016d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca9f2e3cead11b6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "matryoshka_doll/matryoshka_doll.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f00441d73e411905",
+    "type": "split",
+    "children": [
+      {
+        "id": "5558f843db9d29a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96886c4d641c701a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d266d3226e86e658",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9b3de2b5b6db10c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6b55e4e8db1a92a",
+    "type": "split",
+    "children": [
+      {
+        "id": "59ff8cd82d8180fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e0e2e409de1d329",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "matryoshka_doll/matryoshka_doll.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34b261f8fb05e02e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "matryoshka_doll/matryoshka_doll.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "244ac76495622b8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "898148d6f51e9838",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "matryoshka_doll/matryoshka_doll.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "ca9f2e3cead11b6f",
+  "lastOpenFiles": [
+    "teaching/teaching.md",
+    "matryoshka_doll/matryoshka_doll.md",
+    "the_nightingale_and_the_rose/the_nightingale_and_the_rose.md",
+    "hope_is_the_thing_with_feathers/hope_is_the_thing_with_feathers.md"
+  ]
+}

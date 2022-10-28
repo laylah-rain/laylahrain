@@ -48,7 +48,7 @@ Layers of the previous scene:
 
 ## Literary example
 
-> On the sand of the beach were the bones of a whale. Entering through the barvas curtain above the jaw and following the shadow formed by the spine of the body was halfway the still beating heart that resisted death: the strength of the sea still born from within.
+> On the sand of the beach were the bones of a whale. Entering through the baleen curtain above the open jaw and following the shadow formed by the spine of the body was halfway the still beating heart that resisted death: the strength of the sea still born from within.
 
 Layers of the previous text:
 
