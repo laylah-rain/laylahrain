@@ -48,7 +48,7 @@ Capas de la escena anterior:
 
 ## Ejemplo literario
 
-> Sobre la arena de la playa el esqueleto de la ballena. Entrando por la cortina de barvas sobre la mandíbula y siguiendo la sombra formada por la columna central del cuerpo se encontraba a medio camino el corazón aún palpitante que se resistía a la muerte: la fuerza del mar aún nacía desde su interior. 
+> Sobre la arena de la playa el esqueleto de la ballena. Entrando por la cortina de barvas sobre la mandíbula abierta y siguiendo la sombra formada por la columna central del cuerpo se encontraba a medio camino el corazón aún palpitante que se resistía a la muerte: la fuerza del mar aún nacía desde su interior. 
 
 
 Capas del texto anterior:
