@@ -8,9 +8,9 @@ FOOTER:
     - Laylah Rain © 2022
 
 NAVBAR:
-    - [Escritos](https://laylahrain.com/writing/writing.html){sametab}
+    - [Escritos](https://laylahrain.com/writings_spanish/writings_spanish.html){sametab}
     - ![Título](https://laylahrain.com/sources/logo1.png)(45px)(https://laylahrain.com){sametab}
-    - [Enseñanza](https://laylahrain.com/teaching/teaching.html){sametab}
+    - [Enseñanza](https://laylahrain.com/teaching_spanish/teaching_spanish.html){sametab}
 
 TITLE: Técnica narrativa de la muñeca matrioshka
 DESCRIPTION: Guía para escritores
