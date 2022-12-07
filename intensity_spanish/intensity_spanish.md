@@ -8,18 +8,20 @@ FOOTER:
     - Laylah Rain © 2022
 
 NAVBAR:
-    - [Escritos](https://laylahrain.com/writing/writing.html){sametab}
+    - [Writing](https://laylahrain.com/writing/writing.html){sametab}
     - ![Título](https://laylahrain.com/sources/logo1.png)(45px)(https://laylahrain.com){sametab}
-    - [Enseñanza](https://laylahrain.com/teaching/teaching.html){sametab}
+    - [Teaching](https://laylahrain.com/teaching/teaching.html){sametab}
 
-TITLE: Técnica narrativa de la muñeca matrioshka
+TITLE: Técnica creativa - Intensidad
 DESCRIPTION: Guía para escritores
 
 ---
 
 
-# La muñeca matrioshka
+# Intensidad
 Técnica narrativa
+
+
 
 Al igual que el proceso de abrir una muñeca matryoshka donde se descubren más muñecas anidadas unas dentro de otras, esta técnica narrativa consiste en organizar la información de una historia empezando por una capa exterior hasta finalizar en la capa más interna: se hace un *zoom in* de capa a capa. 
 
