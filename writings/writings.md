@@ -24,3 +24,9 @@ My favorites by other authors
 - [The nightingale and the rose](https://laylahrain.com/the_nightingale_and_the_rose/the_nightingale_and_the_rose.html){sametab}, story by Oscar Wilde.
 
 
+```note
+# This note in other languages
+
+- [Spanish](https://laylahrain.com/writings_spanish/writings_spanish.html){sametab}
+
+```
