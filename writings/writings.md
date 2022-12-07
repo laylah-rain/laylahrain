@@ -16,7 +16,7 @@ TITLE: Writing
 ---
 
 
-# Writing
+# Writings
 
 My favorites by other authors
 
