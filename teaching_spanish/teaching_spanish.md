@@ -28,13 +28,13 @@ Sin embargo, de la misma forma que la vida de un futbolista no consiste solo del
 
 ## Técnicas creativas
 
-Las técnicas creativas nos entrenan a que generar ideas únicas. 
+Las técnicas creativas nos entrenan a generar ideas únicas. 
 
 - [Intensidad](https://laylahrain.com/intensity_spanish/intensity_spanish.html){sametab}
 
 ## Técnicas narrativas
 
-Las técnicas narrativas nos entrenan a conectan harmoniozamente ideas con ideas formando un todo más grande que la suma de sus partes. 
+Las técnicas narrativas nos entrenan a conectar harmoniozamente ideas con ideas formando un todo más grande que la suma de sus partes. 
 
 - [Técnica de la matrioshka](https://laylahrain.com/matryoshka_doll_spanish/matryoshka_doll_spanish.html){sametab}
 
