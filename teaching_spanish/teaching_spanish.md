@@ -19,7 +19,7 @@ TITLE: Enseñanza de la narrativa
 
 # La escritura creativa
 
-La experiencia que se vive al escribir una historia es la misma experiencia que se vive al leerla; por eso, si queremos que el lector tenga una experiencia impredecible y única tenemos que hacer de la incertidumbre nuestro mejor aliado. 
+La experiencia que se vive al escribir una historia es la misma experiencia que se vive al leerla; por eso, si queremos que el lector tenga una experiencia impredecible y única tenemos que hacer de la incertidumbre nuestro mejor herramienta.
 
 El proceso de escritura creativa no solo difiere de escritor a escritor, también difiere de historia a historia. Cada vez que un escritor se enfrenta a una hoja en blanco tiene que deconstruirse, desarraigarse de lo que cree saber de este arte, y empezar desde cero: con el inicio de una historia nace un novato, con el final de una historia nace un nuevo escritor. Se empieza la historia sin saber de que trata, se avanza en ella sin saber como termina y no existe regla o guía alguna que simplifique el proceso. 
 
@@ -28,10 +28,12 @@ Sin embargo, de la misma forma que la vida de un futbolista no consiste solo del
 
 ## Técnicas creativas
 
-Las técnicas creativas son aquellas
+Las técnicas creativas nos entrenan a que generar ideas únicas. 
 
 
-Técnicas narrativas
+## Técnicas narrativas
+
+Las técnicas narrativas nos entrenan a conectan harmoniozamente ideas con ideas formando un todo más grande que la suma de sus partes. 
 
 - [Técnica de la matrioshka](https://laylahrain.com/matryoshka_doll_spanish/matryoshka_doll_spanish.html){sametab}
 
