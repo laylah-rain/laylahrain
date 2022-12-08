@@ -8,63 +8,63 @@ FOOTER:
     - Laylah Rain © 2022
 
 NAVBAR:
-    - [Writing](https://laylahrain.com/writing/writing.html){sametab}
-    - ![Título](https://laylahrain.com/sources/logo1.png)(45px)(https://laylahrain.com){sametab}
-    - [Teaching](https://laylahrain.com/teaching/teaching.html){sametab}
+    - [Escritos](https://laylahrain.com/writings_spanish/writings_spanish.html){sametab}
+    - ![Título](https://laylahrain.com/sources/logo1.png)(45px)(https://laylahrain.com/index_spanish.html){sametab}
+    - [Enseñanza](https://laylahrain.com/teaching_spanish/teaching_spanish.html){sametab}
 
 TITLE: Técnica creativa - Intensidad
-DESCRIPTION: Guía para escritores
+DESCRIPTION: Guía para escritores creativos
 
 ---
 
 
 # Intensidad
-Técnica narrativa
+Técnica creativa
+
+Esta técnica consiste en exagerar la característica de un elemento. Técnica presente en el siguiente ejemplo gráfico de *El libro del sinsentido* escrito e ilustrado por Edward Lear en 1846.  
+
+![Ejemplo del libro del sinsentido](sinsentido.svg)(100%)
+
+> Había una dama de nariz tan larga
+> que hasta sus pies la punta llegaba. 
+> Contrató a una críada
+> de conducta comprobada
+> para cargar la nariz pesada.
+> 
+> **—Edward Lear, El libro del sinsentido**
+
+Podemos modelar la técnica de la siguiente forma:
+
+> **ALGO** era tan **CARACTERÍSTICA** que **EXAGERACIÓN**
+
+> **La nariz** era tan **larga** que **hasta los pies la punta llegaba**
 
 
+## Ejemplos literarios
 
-Al igual que el proceso de abrir una muñeca matryoshka donde se descubren más muñecas anidadas unas dentro de otras, esta técnica narrativa consiste en organizar la información de una historia empezando por una capa exterior hasta finalizar en la capa más interna: se hace un *zoom in* de capa a capa. 
+Veamos algunos ejemplos. Observa como la palabra *tan*, *tantas* o *tantos* precede a la exageración. 
 
-Sobre la técnica:
-
-- Cada capa se conectada con las capas aledañas por una relación de profundidad o de detalle. 
-- Las capas intermedias tienen que ser interesantes por sí mismas. 
-- La última capa es más interesante que el resto para recompesar al lector por llegar al final.
-
-
-## Ejemplo cinematográfico
-
-El siguiente video forma parte del inicio de la película *Hugo* estrenada en el año 2011:
-
-!!![Hugo opening scene](https://www.youtube.com/embed/4YEZjShCrlw)
-
-Capas de la escena anterior:
-
-- París
-- Los trenes llegando a la estación de tren
-- El andén de la estación de tren
-- El interior de la estación de tren
-- El reloj de la estación de tren
-- **Recompensa**: Un niño dentro del reloj. 
+> El mundo era **tan** reciente que muchas cosas carecían de nombre, y para nombrarlas había que señalarlas con el dedo.
+> 
+> **— Gabriel García Márquez, Cien años de soledad**
 
 
-## Ejemplo literario
+> Campanilla no era toda maldad: o, más bien, era toda maldad en ese momento, pero, por otro lado, a veces era toda bondad. Las hadas tienen que ser una cosa o la otra, porque al ser **tan** pequeñas desgraciadamente sólo tienen sitio para un sentimiento por vez.
+> 
+> **— J. M. Barrie, Peter and Wendy**
 
-> Sobre la arena de la playa el esqueleto de la ballena. Entrando por la cortina de barvas sobre la mandíbula abierta y siguiendo la sombra formada por la columna central del cuerpo se encontraba a medio camino el corazón aún palpitante que se resistía a la muerte: la fuerza del mar aún nacía desde su interior. 
 
+> Porque el día y la noche quedan en lugares diferentes, repetía un taxista asiduo a la pensión, que cuando se le hacía temprano, es decir, cuando lo atrapaba ahí el amanecer, tenía que dejar el taxi estacionado en un parqueo cercano y retirarse en autobus: llevaba **tantos** años trabajando de noche que ya no conocía la ciudad de día.
+> 
+> **— Fernando Contreras, Los Peor**
 
-Capas del texto anterior:
-
-- La playa
-- Un esqueleto de ballena
-- La boca del esqueleto de la ballena
-- La columna vertebral del esqueleto de la ballena
-- **Recompensa**: El corazón de la ballena aún palpitando.
 
 ```note
-# Este artículo en otros idiomas
+# Sobre El libro del sinsentido
 
-- [Inglés](https://laylahrain.com/matryoshka_doll/matryoshka_doll.html){sametab}
+El libro del sinsentido está bajo dominio público, la imagen de este artículo se tomó del proyecto Standart Ebook que publicó la versión en inglés del libro. 
+
+- [Nonsense books by Edward Lear, Standard Ebooks](https://standardebooks.org/ebooks/edward-lear/nonsense-books)
+
+
 ```
-
-
