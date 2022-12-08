@@ -30,7 +30,7 @@ Sin embargo, de la misma forma que la vida de un futbolista no consiste solo del
 
 Las técnicas creativas nos entrenan a que generar ideas únicas. 
 
-- [Intensidad](https://laylahrain.com/teaching_spanish/teaching_spanish.html){sametab}
+- [Intensidad](https://laylahrain.com/intensity_spanish/intensity_spanish.html){sametab}
 
 ## Técnicas narrativas
 
