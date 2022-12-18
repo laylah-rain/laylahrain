@@ -38,7 +38,11 @@ Las técnicas narrativas nos entrenan a conectar harmoniozamente ideas con ideas
 
 - [Técnica de la matrioshka](https://laylahrain.com/matryoshka_doll_spanish/matryoshka_doll_spanish.html){sametab}
 
+## Notas
 
+Notas particulares sobre mi proceso. 
+
+- [Descripción](https://laylahrain.com/description_spanish/description_spanish.html){sametab}
 
 ```note
 # Esta nota en otros idiomas
